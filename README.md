@@ -1,10 +1,6 @@
 Linux System Programming
 ==================
 
-<div align="center">
-    <img alt="linux" src="media/linux-system-programming.jpg">
-</div>
-
 ## 1. Mục Tiêu
 
 - Nắm các chủ đề cơ bản của Linux System Programming. (Network, Thread, Memory Management, etc.)
